@@ -46,10 +46,6 @@ To recommend top 5 movies based on a user's selected movie preferences using mac
    git clone https://github.com/yourusername/movie-recommender
    cd movie-recommender
 
-## Download the MovieLens 1M dataset:
-- Go to https://grouplens.org/datasets/movielens/1m/
-- Extract and place movies.dat and ratings.dat in the root directory.
-
 ## Run the Streamlit App:
 - streamlit run app.py
 
