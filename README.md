@@ -49,6 +49,6 @@ To recommend top 5 movies based on a user's selected movie preferences using mac
 ## Run the Streamlit App:
 - streamlit run app.py
 
-👩‍💻 Author
+## 👩‍💻 Author
 Shipra Moharana
 
