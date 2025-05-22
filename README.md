@@ -41,13 +41,15 @@ To recommend top 5 movies based on a user's selected movie preferences using mac
 
 ## 🧰 Installation
 
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/yourusername/movie-recommender
-   cd movie-recommender
+- git clone https://github.com/Shipra2001/Movie-Recommendation-System-ElevateLabs-Internship-Project.git
+- cd Movie-Recommendation-System-ElevateLabs-Internship-Project
+
+---
 
 ## Run the Streamlit App:
 - streamlit run app.py
+
+---
 
 ## 👩‍💻 Author
 Shipra Moharana
